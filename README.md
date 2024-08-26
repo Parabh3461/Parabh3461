@@ -1,7 +1,7 @@
 - 👋 Hi, I’m: Parabhnoor
 - 👀 I’m interested in: data analysis, cloud technologies
 - 🌱 I’m currently pursuing: Bsc in Artificial Intelligence and Machine Learning
-- 📫 How to reach me: https://www.linkedin.com/in/parabhnoor/
+- 📫 LinkedIn profile: https://www.linkedin.com/in/parabhnoor/
 - 😄 Pronouns: He\Him
 - ⚡ Fun fact: Believe in Smartwork only
 
