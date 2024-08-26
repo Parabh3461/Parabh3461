@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Parabh3461
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m: Parabhnoor
+- 👀 I’m interested in: data analysis, cloud technologies
+- 🌱 I’m currently pursuing: Bsc in Artificial Intelligence and Machine Learning
+- 📫 How to reach me: https://www.linkedin.com/in/parabhnoor/
+- 😄 Pronouns: He\Him
+- ⚡ Fun fact: Believe in Smartwork only
 
 <!---
 Parabh3461/Parabh3461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
